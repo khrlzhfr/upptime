@@ -4,18 +4,20 @@
     "url": "https://kh.rlzh.fr/?ref=upptime",
     "icon": "https://icons.duckduckgo.com/ip3/kh.rlzh.fr.ico",
     "slug": "kh-rlzh-fr-hugo-cloudflare-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 181,
-    "timeWeek": 208,
-    "timeMonth": 166,
-    "timeYear": 173,
-    "dailyMinutesDown": {}
+    "time": 175,
+    "timeDay": 217,
+    "timeWeek": 213,
+    "timeMonth": 169,
+    "timeYear": 175,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "khrlzh.fr (Hugo/Netlify)",
